@@ -10,7 +10,7 @@ Target Users:   Anyone wanting to improve password security and understand passw
 A comprehensive C++ console application that analyzes, generates, and evaluates password security using mathematical combinatorics. This tool demonstrates real-world applications of discrete mathematics in cybersecurity.
 
 **Course:** Discrete Mathematics  
-**Developer:** [Abeera Arfan and Huda Yasin]  
+**Developer:** [ Huda Yasin and Abeera Arfan ]  
 **Date:** [4th January 2026]
 
 ---
